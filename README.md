@@ -2,7 +2,7 @@
 
 A fun and interactive command-line quiz game that tests your Bible knowledge through multiple choice questions. Built entirely in Python for learning and portfolio purposes.
 
-![Bible Quiz Screenshot](bible_quiz_screenshot.png)
+<img src="bible_quiz_screenshot.png" alt="Bible Quiz Screenshot" width="500"/>
 
 ---
 
