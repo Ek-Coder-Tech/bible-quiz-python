@@ -27,8 +27,29 @@ A fun and interactive command-line quiz game that tests your Bible knowledge thr
 ## ▶️ How to Run
 
 1. Clone this repository or open in [Replit](https://replit.com)
-2. Ensure `colorama` is installed:
-   ```bash
-   pip install colorama
-4. Run main.py and follow the quiz prompts in the terminal
-5. View saved results in score_history.txt
+2. Ensure `colorama` is installed
+3. Run main.py and follow the quiz prompts in the terminal
+4. View saved results in score_history.txt
+
+---
+
+## 🧑‍💻 Author
+
+Eric Mutisya
+
+Python Developer | Task Automation & Simple Tools
+
+GitHub Profile: https://github.com/Ek-Coder-Tech
+
+Upwork Profile: https://www.upwork.com/freelancers/~012558bab6232e8e65
+
+---
+
+## 📜 License
+This project is open-source and free to use.
+Attribution appreciated but not required.
+
+---
+
+## 📌 Notes
+This is part of my journey to build real, useful Python tools and contribute to solving small business and personal productivity challenges using code. Feedback is welcome!
