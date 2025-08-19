@@ -33,23 +33,25 @@ A fun and interactive command-line quiz game that tests your Bible knowledge thr
 
 ---
 
-## 🧑‍💻 Author
+## 👤 Author
 
-Eric Mutisya
-
-Python Developer | Task Automation & Simple Tools
-
-GitHub Profile: https://github.com/Ek-Coder-Tech
-
-Upwork Profile: https://www.upwork.com/freelancers/~012558bab6232e8e65
+**Eric M.**  
+Python Developer & Web Automation Freelancer  
+[View My GitHub Projects](https://github.com/Ek-Coder-Tech)
 
 ---
 
-## 📜 License
-This project is open-source and free to use.
-Attribution appreciated but not required.
+## 📄 License
+
+MIT License
 
 ---
 
 ## 📌 Notes
 This is part of my journey to build real, useful Python tools and contribute to solving small business and personal productivity challenges using code. Feedback is welcome!
+
+---
+
+## 📬 Contact
+
+For freelance inquiries, please reach out via [Upwork Profile](https://www.upwork.com/freelancers/~012558bab6232e8e65)
